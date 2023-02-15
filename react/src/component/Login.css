@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400&display=swap');
+
+body{
+        font-family: 'Kanit', sans-serif !important;
+}
+.facebook{
+    border-radius: 4px;
+    border: none;
+    color: rgb(90, 90, 90);
+    width: 100%;
+    min-width: 64px;
+    min-height: 36px;
+    font-size: 12px;
+    cursor: pointer;
+    box-shadow: 10px;
+    padding:  6px 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%),
+        0px 2px 2px 0px rgb(0 0 0 / 14%),
+        0px 1px 5px 0px rgb(0 0 0 / 12%); ;
+    outline: 0;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+        box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+        border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+        color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    margin-top: 14px;
+    font-family: 'Kanit', sans-serif;
+    }
+
+.facebook:hover{
+    background-color: #fff;
+}
+
+.facebooks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signIn{
+        font-family: 'Kanit', sans-serif !important;
+}
+
+.box{
+    box-sizing: border-box;
+    box-shadow: 1px 1px 3px ;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    /* background-color: red; */
+   
+}
+
+.hul{
+    font-family: 'Kanit', sans-serif !important;
+}
